@@ -1,0 +1,9 @@
+package com.kodnest.exceptionhandling.rule5;
+
+public class Parent 
+{
+	void display() throws RuntimeException
+	{
+		System.out.println("Parent class display method");
+	}
+}
